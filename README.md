@@ -1,4 +1,4 @@
-# Lection Server
+# dotnet-api
 
 Test server for a simple books library.
 
